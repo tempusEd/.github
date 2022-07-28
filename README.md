@@ -1,4 +1,4 @@
-# Hi there 👋 We are TempusEd
+# Hi there 👋 we are TempusEd
 
 
 ## About
